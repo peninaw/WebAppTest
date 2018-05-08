@@ -1,0 +1,12 @@
+C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=WebAppTest
+--content-root=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\Home\About.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\Home\Contact.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\Home\Index.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\Shared\Error.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\Shared\_Layout.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\_ViewImports.cshtml
+--file=C:\Users\peninaw\OneDrive - Microsoft\Documents\Azure\Code\WebAppTest\WebAppTest\Views\_ViewStart.cshtml
